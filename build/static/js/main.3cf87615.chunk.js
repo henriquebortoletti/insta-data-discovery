@@ -1,0 +1,1 @@
+(this["webpackJsonpinsta-data-discovery"]=this["webpackJsonpinsta-data-discovery"]||[]).push([[0],[function(s,a){}],[[0,1]]]);
